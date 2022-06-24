@@ -11,3 +11,11 @@ Colab üzerinde geliştirilen model sırası ile
 olarak tüm celler bulunmaktadır.
 
 Ek olarak modelde kullanılan metric değerler, bach_generatorler import edilmek üzere dosyalar kısmına eklenmiştir.
+
+Emeği geçenler :{U-net-segmentation_human_body,
+Ahmet NARMANLI:'https://github.com/narmanliahmet',
+Furkan TÜRKAY :'https://github.com/FurkyT',
+Emrah Doğuer  :'https://github.com/Emrhdgr',
+Yıl:2022}
+
+@
